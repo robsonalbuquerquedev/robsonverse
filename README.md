@@ -1,37 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/robsonalbuquerquedev/robsonverse/main/public/banner.png" alt="Banner do RobsonVerse" width="100%" />
+</p>
 
-## Getting Started
+# 🌌 RobsonVerse
 
-First, run the development server:
+Bem-vindo ao **RobsonVerse**, o meu universo digital!  
+Um cartão de visitas interativo desenvolvido com **Next.js 14**, **Tailwind CSS** e **Framer Motion**, que reúne meus principais **projetos, redes sociais e formas de contato**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## 🚀 Visão Geral
+
+O **RobsonVerse** foi criado para ser o **link da bio do Instagram**, funcionando como uma **porta de entrada moderna e leve** para que as pessoas possam:
+
+- Conhecer meus **projetos e trabalhos**  
+- Acessar meu **portfólio**  
+- Entrar em contato via **WhatsApp** ou **e-mail**  
+- Me encontrar nas principais **redes sociais**
+
+Tudo isso em uma única página responsiva e com um design elegante, pensado especialmente para **refletir minha identidade profissional e criativa**.
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+| Tecnologia | Função |
+|-------------|---------|
+| [Next.js 14](https://nextjs.org/) | Framework React com App Router |
+| [TypeScript](https://www.typescriptlang.org/) | Tipagem estática e segurança no código |
+| [Tailwind CSS](https://tailwindcss.com/) | Estilização rápida e responsiva |
+| [Framer Motion](https://www.framer.com/motion/) | Animações suaves e modernas |
+| [Lucide React](https://lucide.dev/) | Ícones leves e consistentes |
+| [Vercel](https://vercel.com/) | Hospedagem e deploy automático |
+
+---
+
+## 🎨 Visual e Estilo
+
+A página foi pensada com um visual **sólido e masculino**, representando tecnologia e confiança.  
+O fundo usa o gradiente:
+
+```css
+bg-gradient-to-br from-gray-900 via-slate-900 to-blue-900
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⚙️ Como Executar Localmente
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+# Clone este repositório
+git clone https://github.com/robsonalbuquerquedev/robsonverse.git
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Acesse a pasta
+cd robsonverse
 
-## Learn More
+# Instale as dependências
+npm install
 
-To learn more about Next.js, take a look at the following resources:
+# Execute o servidor de desenvolvimento
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Acesse no navegador:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+👉 http://localhost:3000
+```
 
-## Deploy on Vercel
+## 💬 Sobre o Projeto
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O RobsonVerse é mais do que um link da bio — é um universo pessoal, onde ensino, tecnologia e música se conectam.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# robsonverse
+## 🧑‍💻 Autor
+
+Robson Albuquerque
+
+- 📘 Professor de Informática
+- 💻 Desenvolvedor Full Stack
+- 🎸 Apaixonado por tecnologia, educação e música
+
+## 🪪 Licença
+
+Este projeto está sob a [licença MIT](LICENSE).
+
+Sinta-se à vontade para usar e adaptar com os devidos créditos. 😉
