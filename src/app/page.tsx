@@ -68,7 +68,7 @@ export default function Home() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.6 }}
         >
-          Professor de Informática | Desenvolvedor | Apaixonado por tecnologia, inglês e música 🎸
+          Professor de Informática | Desenvolvedor | Apaixonado por tecnologia, educação e música 🎸
         </motion.p>
       </motion.div>
 
